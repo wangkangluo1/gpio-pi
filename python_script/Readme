@@ -1,0 +1,6 @@
+start：
+    python webpy.py
+    
+request url：
+    http://192.168.1.100:8080/set/low
+    http://192.168.1.100:8080/set/high
